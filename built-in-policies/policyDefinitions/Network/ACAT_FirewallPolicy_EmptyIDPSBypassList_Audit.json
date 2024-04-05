@@ -2,7 +2,7 @@
   "properties": {
     "displayName": "Bypass list of Intrusion Detection and Prevention System (IDPS) should be empty in Firewall Policy Premium",
     "policyType": "BuiltIn",
-    "description": "Intrusion Detection and Prevention System (IDPS) Bypass List allows you to not filter traffic to any of the IP addresses, ranges, and subnets specified in the bypass list. However, enabling IDPS is recommanded for all traffic flows to better identify known threats. To learn more about the Intrusion Detection and Prevention System (IDPS) signatures with Azure Firewall Premium, visit https://aka.ms/fw-idps-signature",
+    "description": "Intrusion Detection and Prevention System (IDPS) Bypass List allows you to not filter traffic to any of the IP addresses, ranges, and subnets specified in the bypass list. However, enabling IDPS is recommended for all traffic flows to better identify known threats. To learn more about the Intrusion Detection and Prevention System (IDPS) signatures with Azure Firewall Premium, visit https://aka.ms/fw-idps-signature",
     "mode": "Indexed",
     "metadata": {
       "version": "1.0.0",
